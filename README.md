@@ -1,8 +1,5 @@
 # Arquitectura java web. 
 
-
-# Arquitectura web Java ejemplo 1
-
 Ejemplo desarrollado para explicar las arquitecturas que se pueden utilizar en Java web. 
 
 
