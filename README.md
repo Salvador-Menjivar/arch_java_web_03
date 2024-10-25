@@ -8,7 +8,7 @@ Ejemplo desarrollado para explicar las arquitecturas que se pueden utilizar en J
 
 ## Tabla de Contenidos
 
-- [Tecnologías Usadas](#En este se han usado las tecnologías #Java, #JSP, #Servlet #MVC )
+- [Tecnologías Usadas](En este se han usado las tecnologías #Java, #JSP, #Servlet #MVC )
 
 
 1. Clona el repositorio:
