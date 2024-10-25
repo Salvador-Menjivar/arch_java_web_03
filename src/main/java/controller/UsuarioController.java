@@ -8,9 +8,9 @@ import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
 import model.Usuario;
 import model.UsuarioNegocio;
-
+// Snippet en visual studio code
 public class UsuarioController extends HttpServlet{
-     private static final long serialVersionUID = 1L;
+    private static final long serialVersionUID = 1L;
     private UsuarioNegocio usuarioNegocio = new UsuarioNegocio();
 
     protected void doPost(HttpServletRequest request, HttpServletResponse response)
@@ -30,6 +30,7 @@ public class UsuarioController extends HttpServlet{
         // Enviar resultado a la vista (JSP)
         request.setAttribute("nombre", nombre);
         request.setAttribute("edad", edad);
+        request.setAttribute("email", email);
         request.setAttribute("usuarioRegistrado", usuarioRegistrado);
 
         // Redireccionar a la vista
