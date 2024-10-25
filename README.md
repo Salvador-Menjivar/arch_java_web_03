@@ -5,8 +5,6 @@
 
 Ejemplo desarrollado para explicar las arquitecturas que se pueden utilizar en Java web. 
 
-Modelo Vista Controlador (MVC=
-Servidor de aplicaciones Tomcat
 
 ## Tabla de Contenidos
 
